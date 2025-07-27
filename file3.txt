@@ -1,1 +1,3 @@
 file ketiga
+
+tambahan teks file ketiga

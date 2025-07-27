@@ -1,1 +1,3 @@
 file kedua
+
+tambahan teks file kedua
